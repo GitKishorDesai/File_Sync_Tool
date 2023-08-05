@@ -32,6 +32,6 @@ def sync(path_src,path_dest):
 
 #Provision for Future if want to use this code/program as a module in other programs
 if __name__=='__main__':
-    path_src='./'
-    path_dest='F:/OneDrive/Sync_Test'
+    path_src=''
+    path_dest=''
     sync(path_src,path_dest)
